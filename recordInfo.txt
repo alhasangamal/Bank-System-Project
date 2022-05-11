@@ -1,0 +1,80 @@
+Customer activity recordings!!!
+30324172: Account is biuld with Password 123456 in Mon May 09 23:23:33 2022
+30324172: Account has log in at Mon May 09 23:25:59 2022
+30324172: Account withdrawled 1000 at Mon May 09 23:25:59 2022
+30324172: Account has log in at Mon May 09 23:30:49 2022
+30324172: Account withdrawled 10000 at Mon May 09 23:30:49 2022
+30324172: Account has log in at Mon May 09 23:38:54 2022
+73728955: Account is biuld with Password 123456 in Mon May 09 23:39:49 2022
+73728955: Account has log in at Mon May 09 23:40:42 2022
+30324172: Account has log in at Tue May 10 00:01:57 2022
+30324172: Thansfer 3000 $ to 73728955 at Tue May 10 00:01:57 2022
+73728955: Receive 3000 $ from 30324172 at Tue May 10 00:01:57 2022
+73728955: Account has log in at Tue May 10 00:03:24 2022
+30324172: Account has log in at Tue May 10 00:25:14 2022
+30324172: Thansfer 2000 $ to 73728955 at Tue May 10 00:25:14 2022
+73728955: Receive 2000 $ from 30324172 at Tue May 10 00:25:14 2022
+73728955: Account has log in at Tue May 10 00:27:09 2022
+30324172: Account has log in at Tue May 10 00:53:42 2022
+30324172: Account has log in at Tue May 10 00:54:44 2022
+30324172: Account has log in at Tue May 10 01:01:19 2022
+30324172: Account Deposit 1000 at Tue May 10 01:01:19 2022
+30324172: Account has log in at Tue May 10 01:15:59 2022
+30324172: Account has log in at Tue May 10 01:23:34 2022
+30324172: Account has log in at Tue May 10 01:24:31 2022
+30324172: Account has log in at Tue May 10 01:28:17 2022
+30324172: Account has log in at Tue May 10 01:36:51 2022
+30324172: Account has log in at Tue May 10 01:42:43 2022
+30324172: This account is blocked in Tue May 10 01:42:43 2022
+30324172: Account has log in at Tue May 10 01:44:37 2022
+30324172: Account has log in at Tue May 10 01:50:55 2022
+30324172: Account has log in at Tue May 10 01:54:43 2022
+73728955: Account has log in at Tue May 10 01:56:01 2022
+73728955: Account withdrawled 5000 at Tue May 10 01:56:01 2022
+73728955: Thansfer 2000 $ to 30324172 at Tue May 10 01:56:01 2022
+30324172: Receive 2000 $ from 73728955 at Tue May 10 01:56:01 2022
+30324172: This account is unblocked in Tue May 10 01:56:01 2022
+30324172: Account has log in at Tue May 10 02:01:07 2022
+30324172: Account Deposit 3000 at Tue May 10 02:01:07 2022
+30324172: Account has log in at Tue May 10 03:23:59 2022
+30324172: Account withdrawled 5000 at Tue May 10 03:23:59 2022
+30324172: Account has changed the password in Tue May 10 03:23:59 2022
+30324172: Account has log in at Tue May 10 03:27:34 2022
+30324172: Account Deposit 2000 at Tue May 10 03:27:34 2022
+30324172: Account has changed the password in Tue May 10 03:27:34 2022
+16317006: Account is biuld with Password 123456 in Wed May 11 12:18:02 2022
+30324172: Account has log in at Wed May 11 12:19:08 2022
+30324172: Account withdrawled 3000 at Wed May 11 12:19:08 2022
+30324172: Thansfer 1000 $ to 73728955 at Wed May 11 12:19:08 2022
+73728955: Receive 1000 $ from 30324172 at Wed May 11 12:19:08 2022
+30324172: Account has log in at Wed May 11 12:23:02 2022
+30324172: Account Deposit 1000 at Wed May 11 12:23:02 2022
+30324172: This account is blocked in Wed May 11 12:23:02 2022
+30324172: Account has log in at Wed May 11 12:24:24 2022
+30324172: Account has log in at Wed May 11 12:25:14 2022
+30324172: This account is unblocked in Wed May 11 12:25:14 2022
+30324172: Account has log in at Wed May 11 12:25:46 2022
+30324172: Account has log in at Wed May 11 12:26:16 2022
+30324172: Account has changed the password in Wed May 11 12:26:16 2022
+30324172: Account has log in at Wed May 11 12:27:03 2022
+30324172: Account has log in at Wed May 11 12:30:56 2022
+30324172: Account has log in at Wed May 11 12:31:32 2022
+30324172: Account has log in at Wed May 11 12:35:22 2022
+30324172: Account has log in at Wed May 11 16:31:29 2022
+30324172: This account is blocked in Wed May 11 16:31:29 2022
+30324172: Account has log in at Wed May 11 16:34:03 2022
+30324172: Account has log in at Wed May 11 16:34:27 2022
+30324172: This account is unblocked in Wed May 11 16:34:27 2022
+30324172: Account has log in at Wed May 11 16:34:52 2022
+38542685: Account is biuld with Password 123456 in Wed May 11 19:06:13 2022
+30324172: Account has log in at Wed May 11 19:07:29 2022
+30324172: Account Deposit 3000 at Wed May 11 19:07:29 2022
+30324172: Account Deposit 5000 at Wed May 11 19:07:29 2022
+30324172: This account is blocked in Wed May 11 19:07:29 2022
+30324172: Account has log in at Wed May 11 19:11:02 2022
+30324172: Account has log in at Wed May 11 19:11:44 2022
+30324172: This account is unblocked in Wed May 11 19:11:44 2022
+30324172: Account has log in at Wed May 11 19:12:01 2022
+30324172: Account has log in at Wed May 11 19:12:27 2022
+30324172: Account has changed the password in Wed May 11 19:12:27 2022
+30324172: Account has log in at Wed May 11 19:13:00 2022
