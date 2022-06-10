@@ -1,5 +1,5 @@
 # Bank-System-Project
-**In project we simulate bank system**
+**In project we simulate bank system using Agile System**
 
 **which include:**
 
